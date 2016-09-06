@@ -1,6 +1,6 @@
 {
   "name": "gulp.use",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "Adds a method `use()` to Gulp 4 'core' that allows plugins to be added.",
   "main": "index.js",
   "scripts": {
